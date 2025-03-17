@@ -58,7 +58,6 @@ print("Yeni Liste:", yeni_liste)
 #Soru5:  Listedeki Elemanları Rastgele Karıştırma
 
 elemanlar = input("Liste elemanlarini girin: ").split()
-
 random.shuffle(elemanlar)
 
 print("Karistirilmis Liste:", elemanlar)
